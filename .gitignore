@@ -1,0 +1,64 @@
+# OS and IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Build artifacts
+dist/
+build/
+*.min.js
+*.min.css
+
+# Development
+.env
+.env.local
+.env.*.local
+tmp/
+temp/
+
+# Logs
+logs/
+*.log
+
+# Dependencies
+vendor/
+
+# Screenshots and captures
+*.png
+*.jpg
+*.jpeg
+*.gif
+screenshots/
+captures/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# MacOS
+.AppleDouble
+.LSOverride
+.localized
+
+# Windows
+Thumbs.db
+Desktop.ini
